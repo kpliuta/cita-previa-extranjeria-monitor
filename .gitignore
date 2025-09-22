@@ -1,0 +1,8 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+poetry.lock
+
+# Checked out termux-web-scraper repo
+termux-web-scraper/

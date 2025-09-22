@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "cita-previa-extranjeria-monitor"
+version = "0.1.0"
+description = ""
+authors = ["kpliuta <9212935+kpliuta@users.noreply.github.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+python-dotenv = "^1.1.1"
+pyyaml = "^6.0.2"
+
+termux-web-scraper = { git = "https://github.com/kpliuta/termux-web-scraper.git", rev = "0.1.0" }
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
