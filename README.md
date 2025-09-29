@@ -10,6 +10,8 @@ This script is designed to be run in two primary environments:
 1.  On an Android device using **Termux** and the `termux-web-scraper` framework.
 2.  On a standard desktop environment as a Python Selenium script.
 
+[The Droid You're Looking For: Scraping Websites on Android with Termux](https://kpliuta.github.io/blog/posts/scraping-websites-on-android-with-termux/)
+
 ## Features
 
 *   **Automated Checking:** Runs on a loop to constantly check for available appointment slots.
