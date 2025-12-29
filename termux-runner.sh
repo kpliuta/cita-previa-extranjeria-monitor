@@ -1,6 +1,6 @@
 #!/bin/sh
 
-TERMUX_WEB_SCRAPER_VERSION="0.1.0"
+TERMUX_WEB_SCRAPER_VERSION="0.1.1"
 
 # Exit immediately if a command exits with a non-zero status.
 set -e
